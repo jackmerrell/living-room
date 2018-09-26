@@ -1,0 +1,14 @@
+{
+  "generator-chisel": {
+    "config": {
+      "name": "Living Room",
+      "author": "Jack Merrell",
+      "projectType": "fe",
+      "nameSlug": "living-room",
+      "nameCamel": "LivingRoom",
+      "chiselVersion": "0.14.0",
+      "has_jquery": true,
+      "has_jquery_vendor_config": true
+    }
+  }
+}
