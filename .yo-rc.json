@@ -9,6 +9,9 @@
       "chiselVersion": "0.14.0",
       "has_jquery": true,
       "has_jquery_vendor_config": true
-    }
+    },
+    "pages": [
+      "index"
+    ]
   }
 }
